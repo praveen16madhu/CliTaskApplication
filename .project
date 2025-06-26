@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>backendconnection</name>
+=======
+	<name>consoleapp</name>
+>>>>>>> fcd65decbe549bbb5fc8628bea2acb5367c9db8d
 	<comment></comment>
 	<projects>
 	</projects>
